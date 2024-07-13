@@ -1553,3 +1553,142 @@ newassets.hcaptcha.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0
 js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
 
 js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+! new 
+
+! 13-Jul-2024 https://www.ndtv.com
+www.ndtv.com##.trd_lst-wrp.swiper-wrapper
+www.ndtv.com##.noti_wrap
+www.ndtv.com##.noti_bgstyle
+www.ndtv.com##.head-story__wrp > .story__social > .story__social-ul
+www.ndtv.com##.story_ft-nav > .story__social > .story__social-ul > li.story__social-li > .whatsapp.story__social-link
+www.ndtv.com##li.story__social-li:nth-of-type(1)
+www.ndtv.com##.story_ft-nav
+www.ndtv.com##.fvotd.video_wrapper
+www.ndtv.com##.mb-15.comment-btn__wrp
+
+! 13-Jul-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.GsAhZ
+timesofindia.indiatimes.com##.minitv_cls.sticky_minitv
+timesofindia.indiatimes.com##.bOk1Z
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .mob-share-button.as_socialsharimgmobile
+timesofindia.indiatimes.com##[href^="https://timesofindia.onelink.me/mjFd/"]
+timesofindia.indiatimes.com##.minitv_cls
+timesofindia.indiatimes.com##.DGssd
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .UzUhn > .MBVQb > div > .ge4Md
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .UzUhn > .WQKXb
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .UzUhn > .OM911
+timesofindia.indiatimes.com##.U2xMR.jDhfc.c8Ubq
+timesofindia.indiatimes.com##.undefined.lJa75
+timesofindia.indiatimes.com##.card_21.fzi6n.BWUrF
+timesofindia.indiatimes.com##.e0kX0
+timesofindia.indiatimes.com##.Z3F18
+timesofindia.indiatimes.com##.Q476L.yAZ_9
+timesofindia.indiatimes.com##.kN2Gg
+timesofindia.indiatimes.com##.T2ytB.OePOQ.CZcr4
+timesofindia.indiatimes.com##.ysnQ3 > .border_none
+timesofindia.indiatimes.com##.ntMKm > ul
+timesofindia.indiatimes.com##.ntMKm
+
+! 13-Jul-2024 https://www.hindustantimes.com
+
+! 13-Jul-2024 https://www.hindustantimes.com
+www.hindustantimes.com##.echoSDK_inArticlePromo
+www.hindustantimes.com##.eoa-txt
+www.hindustantimes.com##.storyTopicsNewUi
+www.hindustantimes.com###topnews > .cohort_box.noSponsorAd.ht-ad-holder.sections.worldSection > .htImpressionTrackingTop.secHdg
+||www.hindustantimes.com/static-content/10s/360x40.png$image
+||www.hindustantimes.com/static-content/1y/2023/ht-images/economist-banner-oct.jpg$image
+
+! 13-Jul-2024 https://www.thehindu.com
+www.thehindu.com##h1
+
+! 13-Jul-2024 https://www.livemint.com
+
+! 13-Jul-2024 https://www.livemint.com
+www.livemint.com##.nav_NewNav__lab3q > ul
+www.livemint.com##div.linkRight:nth-of-type(3)
+www.livemint.com##.echoSdk_signinStoryBox
+||www.livemint.com/lm-img/cdp/Storefront_Images/1720613248992.png$image
+www.livemint.com##.storyInter
+www.livemint.com##.storyPage_storySocialMob__iOe48
+||www.livemint.com/lm-img/img/static/icon-home.png$image
+||www.livemint.com/lm-img/cdp/Storefront_Images/1720791026922.png$image
+||www.livemint.com/lm-img/img/2024/07/13/600x338/HDFC_Bank_unavailable_users_July_13_bank_accounts_1720855236136_1720855236374.jpg$image
+||www.livemint.com/lm-img/cdp/Storefront_Images/1720791026922.png$image
+www.livemint.com##.btmMenu.jsx-8e0e5eb7470f169f
+www.livemint.com##.storyPage_openinApp__xlhxj
+
+! 13-Jul-2024 https://indianexpress.com
+indianexpress.com###menu-header-sub-menu
+indianexpress.com##.s-level-menu
+indianexpress.com##.ie-ie-share
+||images.indianexpress.com/2024/06/UPSC_65_970x150_Without_Offer.png$image
+||indianexpress.com/wp-content/themes/indianexpress/images/express-shorts.jpeg$image
+indianexpress.com##.newsletter_form
+||images.indianexpress.com/2024/06/UPSC_65_970x150_Without_Offer.png$image
+||indianexpress.com/wp-content/themes/indianexpress/images/express-shorts.jpeg$image
+indianexpress.com##.readin_video.app-btn__link
+indianexpress.com##[href^="http://www.indianexpress.com/shorts/"]
+
+! 13-Jul-2024 https://m.economictimes.com
+
+! 13-Jul-2024 https://m.economictimes.com
+m.economictimes.com##._1Ic-2
+m.
+
+! 13-Jul-2024 https://www.moneycontrol.com
+www.moneycontrol.com##.hide_in_desktop.footer_navigation_list
+www.moneycontrol.com##.mob_view.trendingTopicsContainer > .mcContainer
+www.moneycontrol.com##.GreenIPLButton
+
+! 13-Jul-2024 https://www.businesstoday.in
+||akm-img-a-in.tosshub.com/businesstoday/resource/market-widgets/prod/bt-top-nav-stock-commodity-data-ticker.html?v=1.3$subdocument
+www.businesstoday.in##.gbl_nav_wrp
+www.businesstoday.in##.bottomNav
+www.businesstoday.in##.whatsAppChannel
+www.businesstoday.in##.related_article
+www.businesstoday.in##.story_bottom_social_icon
+www.businesstoday.in##.cm-btn-group
+
+! 13-Jul-2024 https://www.business-standard.com
+www.business-standard.com##.notification-col
+www.business-standard.com##.wrapper.HeatExperts_topstickwrpr__OVdZz
+www.business-standard.com##.MainStory_storycontent__Pe3ys > .whtsclick
+www.business-standard.com##.MainStory_whtsppchannle___HEk3
+www.business-standard.com##[href="https://www.whatsapp.com/channel/0029Va6cbsSDuMRmPCIgXS2t"] > span
+www.business-standard.com##.postcomment.PostComment_postcomment__y98rX
+www.business-standard.com##.storydetail.MainStory_storydetail__uDFCx > .whtsclick
+
+! 13-Jul-2024 https://www.zeebiz.com
+www.zeebiz.com##.cookiepolicyFlex.cookiePolicyBox.cookiepolicy
+www.zeebiz.com##.cookieScreenOverlay
+
+! 13-Jul-2024 https://www.financialexpress.com
+www.financialexpress.com##.wp-block-group-is-layout-flow.is-layout-flow.m-t-5.wp-block-group
+www.financialexpress.com##.wrap_section
+www.financialexpress.com##.sub-header-trending-menu
+||www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/img/stockal/market-data-btn-bg.svg$image
+www.financialexpress.com##.js-btm-nav.main-bottom-navigation-div
+www.financialexpress.com##.parent_also_read
+www.financialexpress.com##.t-flex-col.m-flex-1.m-mt-3.items-center.flex.justify-start.article_follow_us
+
+! 13-Jul-2024 https://www.businessinsider.in
+www.businessinsider.in##.exp-explainer-show.explainerexpand
+www.businessinsider.in##.explainerbtn
+www.businessinsider.in##.border-gray-200.border-t.bg-white.px-1.h-16.w-full.z-50.left-0.bottom-0.fixed
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > section > .justify-center.items-center.gap-x-1.gap-y-3.md\:gap-y-3.text-textblack.flex-wrap.flex
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > section > .text-center.my-2.text-gray-500.font-bold.text-md > span
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > .border-b-2.border-grey-400.border-t-2.pt-6.my-6
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > .items-center.py-6.flex.relative
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .webstory-slider > .slick-initialized.webstoryslider.slick-slider > .slick-list > .slick-track > .slick-current.slick-active.slick-slide > div > div > .stories > div > div
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .webstory-slider
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .mb-3.font-bold.uppercase.md\:text-\[20px\].font-black.text-black.text-\[18px\]
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > hr.dark\:bg-gray-700.border-0.bg-\[\#101010\].my-7.h-0\.5
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > .px-2.custom-stockwits-feeds-section.h-\[480px\].text-sm.border.shadow-md.overflow-y-auto.relative > div
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > .px-2.custom-stockwits-feeds-section.h-\[480px\].text-sm.border.shadow-md.overflow-y-auto.relative
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > .items-center.flex.mb-3.font-bold.uppercase.md\:text-\[20px\].font-black.text-black.text-\[18px\]
+||www.businessinsider.in/_next/image?url=https%3A%2F%2Fstaticbiassets.in%2Fphoto%2F111693229%2Fvideos%2Funboxing%2Fsamsung-galaxy-z-fold-6-unboxing-galaxy-ai-asmr.jpg&w=*&q=75$image
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .video-data-slider
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div.pb-3\.5 > .gap-x-1.gap-y-7.text-xxs.text-textblack.flex-wrap.flex
+
