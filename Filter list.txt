@@ -1554,7 +1554,7 @@ js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inlin
 
 js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
 
-! new 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ! 13-Jul-2024 https://www.ndtv.com
 www.ndtv.com##.trd_lst-wrp.swiper-wrapper
@@ -1691,4 +1691,265 @@ www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex
 ||www.businessinsider.in/_next/image?url=https%3A%2F%2Fstaticbiassets.in%2Fphoto%2F111693229%2Fvideos%2Funboxing%2Fsamsung-galaxy-z-fold-6-unboxing-galaxy-ai-asmr.jpg&w=*&q=75$image
 www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .video-data-slider
 www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div.pb-3\.5 > .gap-x-1.gap-y-7.text-xxs.text-textblack.flex-wrap.flex
+
+!NEW---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+! 13-Jul-2024 https://www.ndtv.com
+www.ndtv.com##.trd_lst-wrp.swiper-wrapper
+www.ndtv.com##.noti_wrap
+www.ndtv.com##.noti_bgstyle
+www.ndtv.com##.head-story__wrp > .story__social > .story__social-ul
+www.ndtv.com##.story_ft-nav > .story__social > .story__social-ul > li.story__social-li > .whatsapp.story__social-link
+www.ndtv.com##li.story__social-li:nth-of-type(1)
+www.ndtv.com##.story_ft-nav
+www.ndtv.com##.fvotd.video_wrapper
+www.ndtv.com##.mb-15.comment-btn__wrp
+
+! 13-Jul-2024 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com##.GsAhZ
+timesofindia.indiatimes.com##.minitv_cls.sticky_minitv
+timesofindia.indiatimes.com##.bOk1Z
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .mob-share-button.as_socialsharimgmobile
+timesofindia.indiatimes.com##[href^="https://timesofindia.onelink.me/mjFd/"]
+timesofindia.indiatimes.com##.minitv_cls
+timesofindia.indiatimes.com##.DGssd
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .UzUhn > .MBVQb > div > .ge4Md
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .UzUhn > .WQKXb
+timesofindia.indiatimes.com##.wrapperclearfix > .dark_capsul.QbHpq > .UzUhn > .OM911
+timesofindia.indiatimes.com##.U2xMR.jDhfc.c8Ubq
+timesofindia.indiatimes.com##.undefined.lJa75
+timesofindia.indiatimes.com##.card_21.fzi6n.BWUrF
+timesofindia.indiatimes.com##.e0kX0
+timesofindia.indiatimes.com##.Z3F18
+timesofindia.indiatimes.com##.Q476L.yAZ_9
+timesofindia.indiatimes.com##.kN2Gg
+timesofindia.indiatimes.com##.T2ytB.OePOQ.CZcr4
+timesofindia.indiatimes.com##.ysnQ3 > .border_none
+timesofindia.indiatimes.com##.ntMKm > ul
+timesofindia.indiatimes.com##.ntMKm
+
+! 13-Jul-2024 https://www.hindustantimes.com
+
+! 13-Jul-2024 https://www.hindustantimes.com
+www.hindustantimes.com##.echoSDK_inArticlePromo
+www.hindustantimes.com##.eoa-txt
+www.hindustantimes.com##.storyTopicsNewUi
+www.hindustantimes.com###topnews > .cohort_box.noSponsorAd.ht-ad-holder.sections.worldSection > .htImpressionTrackingTop.secHdg
+||www.hindustantimes.com/static-content/10s/360x40.png$image
+||www.hindustantimes.com/static-content/1y/2023/ht-images/economist-banner-oct.jpg$image
+
+! 13-Jul-2024 https://www.thehindu.com
+www.thehindu.com##h1
+
+! 13-Jul-2024 https://www.livemint.com
+
+! 13-Jul-2024 https://www.livemint.com
+www.livemint.com##.nav_NewNav__lab3q > ul
+www.livemint.com##div.linkRight:nth-of-type(3)
+www.livemint.com##.echoSdk_signinStoryBox
+||www.livemint.com/lm-img/cdp/Storefront_Images/1720613248992.png$image
+www.livemint.com##.storyInter
+www.livemint.com##.storyPage_storySocialMob__iOe48
+||www.livemint.com/lm-img/img/static/icon-home.png$image
+||www.livemint.com/lm-img/cdp/Storefront_Images/1720791026922.png$image
+||www.livemint.com/lm-img/img/2024/07/13/600x338/HDFC_Bank_unavailable_users_July_13_bank_accounts_1720855236136_1720855236374.jpg$image
+||www.livemint.com/lm-img/cdp/Storefront_Images/1720791026922.png$image
+www.livemint.com##.btmMenu.jsx-8e0e5eb7470f169f
+www.livemint.com##.storyPage_openinApp__xlhxj
+
+! 13-Jul-2024 https://indianexpress.com
+indianexpress.com###menu-header-sub-menu
+indianexpress.com##.s-level-menu
+indianexpress.com##.ie-ie-share
+||images.indianexpress.com/2024/06/UPSC_65_970x150_Without_Offer.png$image
+||indianexpress.com/wp-content/themes/indianexpress/images/express-shorts.jpeg$image
+indianexpress.com##.newsletter_form
+||images.indianexpress.com/2024/06/UPSC_65_970x150_Without_Offer.png$image
+||indianexpress.com/wp-content/themes/indianexpress/images/express-shorts.jpeg$image
+indianexpress.com##.readin_video.app-btn__link
+indianexpress.com##[href^="http://www.indianexpress.com/shorts/"]
+
+! 13-Jul-2024 https://m.economictimes.com
+
+! 13-Jul-2024 https://m.economictimes.com
+m.economictimes.com##._1Ic-2
+m.
+
+! 13-Jul-2024 https://www.moneycontrol.com
+www.moneycontrol.com##.hide_in_desktop.footer_navigation_list
+www.moneycontrol.com##.mob_view.trendingTopicsContainer > .mcContainer
+www.moneycontrol.com##.GreenIPLButton
+
+! 13-Jul-2024 https://www.businesstoday.in
+||akm-img-a-in.tosshub.com/businesstoday/resource/market-widgets/prod/bt-top-nav-stock-commodity-data-ticker.html?v=1.3$subdocument
+www.businesstoday.in##.gbl_nav_wrp
+www.businesstoday.in##.bottomNav
+www.businesstoday.in##.whatsAppChannel
+www.businesstoday.in##.related_article
+www.businesstoday.in##.story_bottom_social_icon
+www.businesstoday.in##.cm-btn-group
+
+! 13-Jul-2024 https://www.business-standard.com
+www.business-standard.com##.notification-col
+www.business-standard.com##.wrapper.HeatExperts_topstickwrpr__OVdZz
+www.business-standard.com##.MainStory_storycontent__Pe3ys > .whtsclick
+www.business-standard.com##.MainStory_whtsppchannle___HEk3
+www.business-standard.com##[href="https://www.whatsapp.com/channel/0029Va6cbsSDuMRmPCIgXS2t"] > span
+www.business-standard.com##.postcomment.PostComment_postcomment__y98rX
+www.business-standard.com##.storydetail.MainStory_storydetail__uDFCx > .whtsclick
+
+! 13-Jul-2024 https://www.zeebiz.com
+www.zeebiz.com##.cookiepolicyFlex.cookiePolicyBox.cookiepolicy
+www.zeebiz.com##.cookieScreenOverlay
+
+! 13-Jul-2024 https://www.financialexpress.com
+www.financialexpress.com##.wp-block-group-is-layout-flow.is-layout-flow.m-t-5.wp-block-group
+www.financialexpress.com##.wrap_section
+www.financialexpress.com##.sub-header-trending-menu
+||www.financialexpress.com/wp-content/themes/ie-network-theme/assets/src/img/stockal/market-data-btn-bg.svg$image
+www.financialexpress.com##.js-btm-nav.main-bottom-navigation-div
+www.financialexpress.com##.parent_also_read
+www.financialexpress.com##.t-flex-col.m-flex-1.m-mt-3.items-center.flex.justify-start.article_follow_us
+
+! 13-Jul-2024 https://www.businessinsider.in
+www.businessinsider.in##.exp-explainer-show.explainerexpand
+www.businessinsider.in##.explainerbtn
+www.businessinsider.in##.border-gray-200.border-t.bg-white.px-1.h-16.w-full.z-50.left-0.bottom-0.fixed
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > section > .justify-center.items-center.gap-x-1.gap-y-3.md\:gap-y-3.text-textblack.flex-wrap.flex
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > section > .text-center.my-2.text-gray-500.font-bold.text-md > span
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > .border-b-2.border-grey-400.border-t-2.pt-6.my-6
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > section > .bi-articleshow.w-full > .items-center.py-6.flex.relative
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .webstory-slider > .slick-initialized.webstoryslider.slick-slider > .slick-list > .slick-track > .slick-current.slick-active.slick-slide > div > div > .stories > div > div
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .webstory-slider
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .mb-3.font-bold.uppercase.md\:text-\[20px\].font-black.text-black.text-\[18px\]
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > hr.dark\:bg-gray-700.border-0.bg-\[\#101010\].my-7.h-0\.5
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > .px-2.custom-stockwits-feeds-section.h-\[480px\].text-sm.border.shadow-md.overflow-y-auto.relative > div
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > .px-2.custom-stockwits-feeds-section.h-\[480px\].text-sm.border.shadow-md.overflow-y-auto.relative
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > .items-center.flex.mb-3.font-bold.uppercase.md\:text-\[20px\].font-black.text-black.text-\[18px\]
+||www.businessinsider.in/_next/image?url=https%3A%2F%2Fstaticbiassets.in%2Fphoto%2F111693229%2Fvideos%2Funboxing%2Fsamsung-galaxy-z-fold-6-unboxing-galaxy-ai-asmr.jpg&w=*&q=75$image
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div > .video-data-slider
+www.businessinsider.in###\31 11687042 > .mt-6.pb-2.md\:divide-x-\[2px\].md\:flex-col.lg\:flex-row.xl\:flex-row.flex-col-reverse.justify-between.flex > .w-full.mobView > div.pb-3\.5 > .gap-x-1.gap-y-7.text-xxs.text-textblack.flex-wrap.flex
+
+! 13-Jul-2024 https://www.reuters.com
+
+! 13-Jul-2024 https://www.reuters.com
+www.reuters.com##div.article-body__element__2p5pI:nth-of-type(7)
+www.reuters.com##div.article-body__element__2p5pI:nth-of-type(11)
+www.reuters.com##.regular-article-layout__right-rail__3o6zT
+www.reuters.com##.leaderboard__container__2MbZl
+www.reuters.com##.spacing-container__container__2g5QT.market-bar__border-container__NrueP
+www.reuters.com##li.story-cluster__extra-module__2Op-8:nth-of-type(4)
+www.reuters.com##div.article-body__element__2p5pI:nth-of-type(10)
+www.reuters.com##div.article-body__element__2p5pI:nth-of-type(14)
+
+! 13-Jul-2024 https://cointelegraph.com
+cointelegraph.com##.bottom-zone__privacy-policy.privacy-policy
+cointelegraph.com##.post-page__mobile-shares.shares-list
+cointelegraph.com##.header-zone__banner
+cointelegraph.com##.post__block.post-cover
+cointelegraph.com##.post__block_nft.rounded-b-lg.items-center.justify-between.sm\:flex-row.flex-col.flex.border-bg-lessSubtle.border-t-0.border.sm\:rtl\:pl-4.sm\:rtl\:pr-6.sm\:pl-6.sm\:p-4.p-3
+cointelegraph.com##.post-socials_EpBtt.post__socials-block
+cointelegraph.com##.post__block_post-actions.post__block.rounded-t-lg.bg-custom-gray-lightest.items-center.flex-wrap.flex
+cointelegraph.com##.relative.post-content > .ad-slot_NjPAE
+cointelegraph.com##.changelly-widget_PWTcc
+cointelegraph.com###article-139591 > .post__content-wrapper > .post__block_tags.post__block.tags-list
+cointelegraph.com###article-139591 > .post__content-wrapper > .reactions_3eiuR
+cointelegraph.com##.w-full.rtl\:lg\:mr-6.ltr\:lg\:ml-6
+cointelegraph.com##.flex-grow.md\:basis-\[67\%\]
+cointelegraph.com##.md\:mt-0.mt-8.flex-grow.md\:rtl\:pr-6.md\:pl-6.md\:basis-\[33\%\]
+cointelegraph.com##li.lg\:col-span-3.md\:col-span-3.sm\:col-span-2.group-\[\.inline\]\:mb-8 > .ad-slot_NjPAE
+cointelegraph.com##.componentAdbutler_uF1zH.component_M8tKE
+cointelegraph.com##.max-w-161.overflow-x-hidden.rounded-lg.sm\:pr-3.sm\:pl-6.sm\:py-6.p-4.shadow-default.article-subscription.group
+cointelegraph.com###article-139588 > .post__content-wrapper > .post__block_tags.post__block.tags-list > .tags-list__list
+cointelegraph.com###article-139588 > .post__content-wrapper > .reactions_3eiuR
+cointelegraph.com###article-139552 > .post__content-wrapper > .post__block_tags.post__block.tags-list
+cointelegraph.com##.ad-slot_vGf1H.ad-slot_NjPAE
+
+! 13-Jul-2024 https://www.zerohedge.com
+www.zerohedge.com##.AdvertisingSlot_align__A2hYo.AdvertisingSlot_placement__udF_V.AdvertisingSlot_mobile__f___z.AdvertisingSlot_tablet__3SxtX.AdvertisingSlot_desktop__eL99N
+www.zerohedge.com##div.AdvertisingSlot_align__A2hYo.AdvertisingSlot_placement__udF_V.AdvertisingSlot_mobile__f___z.AdvertisingSlot_tablet__3SxtX:nth-of-type(2)
+www.zerohedge.com##.MidArticleNewsletter_midArticle__bOpq4
+
+! 13-Jul-2024 https://www.theblock.co
+
+||www.theblock.co/_nuxt/img/MobileDaily.edc00b5.png$image
+||www.theblock.co/_nuxt/img/MobileDaily.edc00b5.png$image
+www.theblock.co##.noticeBanner
+www.theblock.co##.header__dataTicker.header__row
+
+! 13-Jul-2024 https://velodata.app
+velodata.app##.news-upgrade-wrap
+
+! 13-Jul-2024 https://www.investing.com
+www.investing.com##.promo-strip_proPromo-stripe___88ug.promo-strip_promo-strip-wrapper__mEqE1.sm\:py-2\.5.ease-in.duration-100.transition-all.py-1.px-2\.5.flex.relative
+www.investing.com##.leading-5.text-sm.mb-5
+www.investing.com##.\!pt-2.\!mt-3.after\:hidden.before\:\!text-\[\#5B616E\].before\:tracking-wide.before\:\!normal-case.before\:\!p-0.before\:\!bg-transparent.before\:\!-top-3.MainLayout_footer-ad__AiWKF.ad_ad__label__2NPqI.ad_ad-sticky__T0cSU.ad_ad__II8vw.before\:leading-3.before\:\!text-3xs.font-sans-v2.relative > div
+www.investing.com##.\!pt-2.\!mt-3.after\:hidden.before\:\!text-\[\#5B616E\].before\:tracking-wide.before\:\!normal-case.before\:\!p-0.before\:\!bg-transparent.before\:\!-top-3.MainLayout_footer-ad__AiWKF.ad_ad__label__2NPqI.ad_ad-sticky__T0cSU.ad_ad__II8vw.before\:leading-3.before\:\!text-3xs.font-sans-v2.relative
+www.investing.com##.grow.flex
+www.investing.com##.my-8
+www.investing.com##.text-\[\#5b616e\].text-xs.text-center.mt-3
+www.investing.com##.flex-col.flex.relative > .shadow-commentBox.p-3\.5.border-\[\#D9DCDF\].border.rounded.cursor-text.mb-3
+www.investing.com##.after\:\!bg-\[\#dedede\].after\:\!w-full.after\:\!top-1\.5.after\:\!left-0.before\:\!text-\[\#8C8C8C\].before\:\!py-0.items-center.grid.\!mt-0.md\:hidden.order-2.ad_ad__label__2NPqI.ad_ad__II8vw.before\:leading-3.before\:\!text-3xs.font-sans-v2.relative
+
+! 13-Jul-2024 https://m.investing.com
+
+! 13-Jul-2024 https://m.investing.com
+m.investing.com##.usingCss.lSSlideWrapper
+m.investing.com##.lSpg.lSPager
+m.investing.com##article.mediaItem:nth-of-type(6)
+||i-invdn-com.investing.com/news/moved_small-LYNXMPEK51039_L.jpg$image
+m.investing.com##.adDrawer
+
+! 13-Jul-2024 https://www.investing.com
+www.investing.com##.proPromo-stripe.promo-strip-wrapper
+www.investing.com###Billboard_Default-1
+www.investing.com##.wideTopBanner
+www.investing.com##.findABrokerWrapper
+www.investing.com##.gap-1\.5.items-start.flex.mb-8
+www.investing.com##.flex-col.flex.relative > .items-start.flex-col.flex
+www.investing.com##.shadow-strategiesButton.pr-6.pl-4.py-2\.5.bg-gradient-pro-custom.rounded.gap-3.justify-center.items-center.cursor-pointer.flex.mt-5
+www.investing.com##.after\:\!bg-\[\#dedede\].after\:\!w-full.after\:\!top-1\.5.after\:\!left-0.before\:\!text-\[\#8C8C8C\].before\:\!py-0.items-center.grid.\!mt-0.md\:hidden.order-7.ad_ad__label__2NPqI.ad_ad__II8vw.before\:leading-3.before\:\!text-3xs.font-sans-v2.relative
+
+! 13-Jul-2024 https://presearch.com
+presearch.com##.w-full.justify-between.dark\:text-white.dark\:bg-gray-700.bg-gray-100.py-1.px-2.items-center.flex
+||assets.presearch.com/backgrounds/483a8995dc10f13403fa3dc810f70174.jpg$image
+presearch.com##.w-full.h-16.banner-placeholder
+presearch.com##.mb-14.items-center.flex.h-10.w-10.p-3.md\:hidden.block.h-4.w-4.right-0.drop-shadow.dark\:text-gray-300.text-gray-300.bottom-0.fixed
+presearch.com##.text-gray-500.lg\:ml-1.md\:ml-5.mx-3.text-sm.md\:mt-2.mt-0.z-1.relative
+presearch.com##.mb-2.flex-wrap.mt-3.justify-center.items-center.md\:hidden.flex
+presearch.com##.dark\:border-gray-900.border-gray-200.border-t.z-70.bg-white.md\:hidden.w-full.bottom-0.fixed.pta-search-mobile
+
+! 13-Jul-2024 https://decrypt.co
+decrypt.co##.justify-center.items-center.xl\:hidden.flex.gg-dark\:top-\[4\.5625rem\].emerge\:top-\[4\.5625rem\].md\:mt-11.mt-7.z-10.top-\[4\.5625rem\].sticky
+decrypt.co##.m-0.text-black.bg-white.font-akzidenz-grotesk > .overflow-hidden.relative
+decrypt.co##.py-4.items-center.flex-col.flex.linkbox
+decrypt.co##.gap-8.justify-center.flex.gg-dark\:text-white.text-neutral-700
+decrypt.co##.my-6.justify-center.flex
+
+! 13-Jul-2024 https://www.coindesk.com
+www.coindesk.com##.eYbLOH.prices-stripstyles__Wrapper-sc-bwy1il-2
+www.coindesk.com##.bBNBfK.main-navigation-bannerstyles__Wrapper-sc-5i6hxw-0
+www.coindesk.com##.ARwmP.disclaimerstyles__StyledWrapper-sc-1t5xft7-0
+
+! 13-Jul-2024 https://www.fxstreet.com
+www.fxstreet.com##.fxs_txt_center.fxs_stickyAd-mobile
+www.fxstreet.com##.in.fade.alert-dismissible.alert.fxs_alert_featured.fxs_global_alert
+www.fxstreet.com###fxs-sponsorBroker-topBanner
+www.fxstreet.com##.fxs_copyRight
+www.fxstreet.com##.fxs_modal_footer.fxs_footer
+www.fxstreet.com##.fxs_roadblock_slide > .fxs_ad
+www.fxstreet.com##.fxs_leaderboard_transition.fxs_leaderboard
+www.fxstreet.com##.fxs_leaderboard_small.fxs_leaderboard
+www.fxstreet.com##.fxs_article > .fxs_disclaimer_block
+www.fxstreet.com###subscribetonewsletterv2_cd821595-6e5a-4a35-bf9b-8d1eb9c172ce
+www.fxstreet.com##.fxs_visible_l.fxs_post_bottom
+www.fxstreet.com###fxs_article_content > .fxs_socialmedia_bar_default
+www.fxstreet.com##div.fxs_flex_col > .fxs_detail > .fxs_clearfix
+www.fxstreet.com##.fxs_seo_bar_slider-mobile
+www.fxstreet.com##.fxs_visible_1024.fxs_seo_bar-mobile
+www.fxstreet.com##.sticky.fxs_flex_ad_col.fxs_flex_col
+||editorial.fxstreet.com/miscelaneous-input/cryptos-600x170.jpg$image
+www.fxstreet.com##.fxs_col_100.fxs_col > .sf_colsIn
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
