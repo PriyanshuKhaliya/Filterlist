@@ -1,0 +1,1555 @@
+
+social.ndtv.com###overlaybtn
+
+platform.twitter.com###overlaybtn
+
+sports.ndtv.com###overlaybtn
+
+indianexpress.com##.s-level-menu__inner
+
+indianexpress.com##.s-level-menu
+
+www.livemint.com###subscriptionNewBanner
+
+www.livemint.com###lastAd > .signUpcardStory.clearfix
+
+art19.com##.awp-episode-name.awp-marquee
+
+www.coindesk.com##.awp-episode-name.awp-marquee
+
+art19.com##.awp-series-name.awp-marquee
+
+www.coindesk.com##.awp-series-name.awp-marquee
+
+art19.com##.awp-media-controls-right
+
+www.coindesk.com##.awp-media-controls-right
+
+www.coindesk.com##.awp-media-controls-right
+
+art19.com##.awp-media-controls-right
+
+art19.com##.awp.awp-medium.awp-container.awp-responsive
+
+www.coindesk.com##.awp.awp-medium.awp-container.awp-responsive
+
+! 2023-04-16 https://www.coindesk.com
+www.coindesk.com##.CcuQb.countdown-clockstyles__StyledWrapper-r7q59-0
+
+##.kUHfKj.main-navigation-pricesstyles__Wrapper-sc-1wdyobp-0
+
+##.opinion > .glZCFw.sc-gsnTZi
+
+platform.twitter.com##.wbgbx_notif
+
+www.moneycontrol.com##.wbgbx_notif
+
+platform.twitter.com##.hed_mid
+
+www.moneycontrol.com##.hed_mid
+
+presearch.com##.mx-2.md\:mx-0.md\:mr-0.md\:mt-0.mt-3\.5.md\:max-w-xl.lg\:max-w-2xl.p-4.bg-white.dark\:bg-background-dark200.dark\:text-presearch-dark.rounded.shadow.md\:mb-3.mb-3
+
+presearch.com##.mx-2.text-gray-800.md\:mx-0.md\:mr-0.md\:mt-0.mt-3\.5.md\:max-w-xl.lg\:max-w-2xl.p-4.pb-2.bg-white.dark\:bg-background-dark200.dark\:text-gray-300.rounded.shadow.md\:mb-3.mb-3
+
+rethinkdns.com###loading
+
+coinmarketcap.com##.minimized-icon
+
+presearch.com##.relative.hidden.sm\:block.mt-5.md\:mt-0.extension-notice.mx-2.md\:mx-0.md\:mr-0.md\:max-w-xl.lg\:max-w-2xl.pr-0.pb-0.p-4.bg-presearch-alternative.dark\:bg-dark-800.shadow.rounded.mb-3
+
+presearch.com##.text-sm.mt-5.md\:mt-9.mb-2.mx-3.md\:ml-7.lg\:ml-3.text-gray-500 > .font-light
+
+presearch.com##.pl-2.pr-1.md\:pl-6.md\:w-48.lg\:w-56 > .flex.items-center
+
+research.nansen.ai##.Paywall_paywall__HfpHc
+
+query.nansen.ai##.Paywall_paywall__HfpHc
+
+query.nansen.ai##.Paywall_paywall__HfpHc
+
+query.nansen.ai##.Paywall_paywall__HfpHc
+
+www.google.com##.sc-181b8c39-8.eHZZpU
+
+cryptorank.io##.sc-181b8c39-8.eHZZpU
+
+verify.walletconnect.org##.sc-181b8c39-8.eHZZpU
+
+pro.imdb.com###logged-out-modal-v2
+
+pro.imdb.com###logged-out-modal-v2
+
+pro.imdb.com###logged-out-modal-v2
+
+pro.imdb.com###logged_out_overlay
+
+pro.imdb.com###logged_out_overlay
+
+pro.imdb.com###logged_out_overlay
+
+jetpack.wordpress.com###rating_18837_1
+
+www.gaussianwaves.com###rating_18837_1
+
+jetpack.wordpress.com###rating_18837_2
+
+www.gaussianwaves.com###rating_18837_2
+
+www.gaussianwaves.com###rating_18837_3
+
+jetpack.wordpress.com###rating_18837_3
+
+www.gaussianwaves.com###rating_18837_4
+
+jetpack.wordpress.com###rating_18837_4
+
+www.gaussianwaves.com###rating_18837_5
+
+jetpack.wordpress.com###rating_18837_5
+
+challenges.cloudflare.com##.hot-pairs.p0.m0
+
+www.dextools.io##.hot-pairs.p0.m0
+
+challenges.cloudflare.com##.marquee-content-container
+
+www.dextools.io##.marquee-content-container
+
+www.dextools.io##.marquee-container
+
+challenges.cloudflare.com##.marquee-container
+
+www.dextools.io##.ventures-logo-container.ng-tns-c3524250680-13.ng-star-inserted.ventures-logo-container-animation
+
+challenges.cloudflare.com##.ventures-logo-container.ng-tns-c3524250680-13.ng-star-inserted.ventures-logo-container-animation
+
+timesofindia.indiatimes.com##.mPws3.d_jsH
+
+imasdk.googleapis.com##.mPws3.d_jsH
+
+imasdk.googleapis.com##.mPws3.d_jsH
+
+imasdk.googleapis.com##.mPws3.d_jsH
+
+imasdk.googleapis.com##.mPws3.d_jsH
+
+imasdk.googleapis.com##.cH6aq
+
+imasdk.googleapis.com##.cH6aq
+
+imasdk.googleapis.com##.cH6aq
+
+imasdk.googleapis.com##.cH6aq
+
+timesofindia.indiatimes.com##.cH6aq
+
+js.stripe.com###leaderboard-68094
+
+m.stripe.network###leaderboard-68094
+
+www.bloomberg.com###leaderboard-68094
+
+pay.google.com###leaderboard-68094
+
+www.google.com###leaderboard-68094
+
+js.stripe.com###leaderboard-68094
+
+js.stripe.com###leaderboard-68094
+
+js.stripe.com###leaderboard-68094
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+m.stripe.network##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+pay.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+www.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+m.stripe.network##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+pay.google.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.bloomberg.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.google.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.bloomberg.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+js.stripe.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+m.stripe.network##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+pay.google.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+js.stripe.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+www.google.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+js.stripe.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+js.stripe.com##.media-ui-ExpandableBanner_content-Ae8ebCYnirY-
+
+www.bloomberg.com##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+js.stripe.com##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+pay.google.com##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+m.stripe.network##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+js.stripe.com##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+www.google.com##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+js.stripe.com##.media-ui-ExpandableBanner_dialog-YQeXTRa3iG0-.media-ui-ExpandableBanner_expanded-wurR9SYdq5s-.banner
+
+
+
+
+
+
+
+accounts.google.com##.flex.w-full.flex-wrap.content-center.items-center.justify-center.px-24.py-72.sm\:px-64.sm\:py-64.md\:justify-between.md\:px-48.md\:pb-80.md\:pt-80
+
+m.stripe.network##.flex.w-full.flex-wrap.content-center.items-center.justify-center.px-24.py-72.sm\:px-64.sm\:py-64.md\:justify-between.md\:px-48.md\:pb-80.md\:pt-80
+
+www.theinformation.com##.flex.w-full.flex-wrap.content-center.items-center.justify-center.px-24.py-72.sm\:px-64.sm\:py-64.md\:justify-between.md\:px-48.md\:pb-80.md\:pt-80
+
+js.stripe.com##.flex.w-full.flex-wrap.content-center.items-center.justify-center.px-24.py-72.sm\:px-64.sm\:py-64.md\:justify-between.md\:px-48.md\:pb-80.md\:pt-80
+
+js.stripe.com##.flex.w-full.flex-wrap.content-center.items-center.justify-center.px-24.py-72.sm\:px-64.sm\:py-64.md\:justify-between.md\:px-48.md\:pb-80.md\:pt-80
+
+accounts.google.com##.flex.w-full.flex-wrap.content-center.items-center.justify-center.px-24.py-72.sm\:px-64.sm\:py-64.md\:justify-between.md\:px-48.md\:pb-80.md\:pt-80
+
+www.theinformation.com##.MuiBackdrop-root.MuiModal-backdrop.css-919eu4
+
+m.stripe.network##.MuiBackdrop-root.MuiModal-backdrop.css-919eu4
+
+js.stripe.com##.MuiBackdrop-root.MuiModal-backdrop.css-919eu4
+
+accounts.google.com##.MuiBackdrop-root.MuiModal-backdrop.css-919eu4
+
+js.stripe.com##.MuiBackdrop-root.MuiModal-backdrop.css-919eu4
+
+accounts.google.com##.MuiBackdrop-root.MuiModal-backdrop.css-919eu4
+
+www.theinformation.com##.sticky.-bottom-px.z-50.mt-0.w-full.bg-grayscale-charcoal > aside > div:nth-of-type(1)
+
+m.stripe.network##.sticky.-bottom-px.z-50.mt-0.w-full.bg-grayscale-charcoal > aside > div:nth-of-type(1)
+
+accounts.google.com##.sticky.-bottom-px.z-50.mt-0.w-full.bg-grayscale-charcoal > aside > div:nth-of-type(1)
+
+js.stripe.com##.sticky.-bottom-px.z-50.mt-0.w-full.bg-grayscale-charcoal > aside > div:nth-of-type(1)
+
+js.stripe.com##.sticky.-bottom-px.z-50.mt-0.w-full.bg-grayscale-charcoal > aside > div:nth-of-type(1)
+
+www.theinformation.com##.absolute.bottom-0.left-0.top-0.z-40.w-full.bg-black\/30
+
+accounts.google.com##.absolute.bottom-0.left-0.top-0.z-40.w-full.bg-black\/30
+
+m.stripe.network##.absolute.bottom-0.left-0.top-0.z-40.w-full.bg-black\/30
+
+js.stripe.com##.absolute.bottom-0.left-0.top-0.z-40.w-full.bg-black\/30
+
+js.stripe.com##.absolute.bottom-0.left-0.top-0.z-40.w-full.bg-black\/30
+
+www.theinformation.com##.MuiModal-root.css-8ndowl
+
+m.stripe.network##.MuiModal-root.css-8ndowl
+
+js.stripe.com##.MuiModal-root.css-8ndowl
+
+accounts.google.com##.MuiModal-root.css-8ndowl
+
+js.stripe.com##.MuiModal-root.css-8ndowl
+
+www.theinformation.com##.min-h-56.w-full.bg-grayscale-charcoal.px-16.py-8
+
+m.stripe.network##.min-h-56.w-full.bg-grayscale-charcoal.px-16.py-8
+
+accounts.google.com##.min-h-56.w-full.bg-grayscale-charcoal.px-16.py-8
+
+js.stripe.com##.min-h-56.w-full.bg-grayscale-charcoal.px-16.py-8
+
+js.stripe.com##.min-h-56.w-full.bg-grayscale-charcoal.px-16.py-8
+
+m.stripe.network##html
+
+
+
+
+
+
+www.coindesk.com###cd-countdown-clock
+
+www.google.com###cd-countdown-clock
+
+www.google.com##.side-cover-cardstyles__SideCoverCardWrapper-sc-1nd3s5z-0.drWEWC.side-cover-card
+
+www.coindesk.com##.side-cover-cardstyles__SideCoverCardWrapper-sc-1nd3s5z-0.drWEWC.side-cover-card
+
+m.stripe.network###immersive-86108
+
+www.bloomberg.com###immersive-86108
+
+www.google.com###immersive-86108
+
+js.stripe.com###immersive-86108
+
+pay.google.com###immersive-86108
+
+js.stripe.com###immersive-86108
+
+js.stripe.com###immersive-86108
+
+js.stripe.com###immersive-86108
+
+m.stripe.network##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+pay.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.googletagmanager.com##.banner
+
+www.theblock.co##.banner
+
+www.circle.com###topicPageBlogSubscribe
+
+js.stripe.com##.__8a77e614b08370cf_orderbook__AYLaO > .__60eb3105c4c8e3b6_orderflow3Chart__tFl6H > div:nth-of-type(1) > div
+
+m.stripe.network##.__8a77e614b08370cf_orderbook__AYLaO > .__60eb3105c4c8e3b6_orderflow3Chart__tFl6H > div:nth-of-type(1) > div
+
+
+www.googletagmanager.com##.noticeBanner__link
+
+www.theblock.co##.noticeBanner__link
+
+www.googletagmanager.com##.accessCard.header__access
+
+www.theblock.co##.accessCard.header__access
+
+www.theblock.co##div.priceCol:nth-of-type(3) > .priceItem
+
+www.googletagmanager.com##div.priceCol:nth-of-type(3) > .priceItem
+
+blockworks.co##.top-bar.bg-primary.min-h-\[2\.5rem\]
+
+www.nytimes.com##[src*="https://myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=freex&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26redirect_uri%3Dhttps%253A%252F%252Fwww.nytimes.com%252Flive%252F2"]
+
+myaccount.nytimes.com##[src*="https://myaccount.nytimes.com/auth/iframe/enter-email?response_type=cookie&client_id=freex&redirect_uri=https%3A%2F%2Fwww.nytimes.com%2Fsubscription%2Fonboarding-offer%3FcampaignId%3D7JFJX%26redirect_uri%3Dhttps%253A%252F%252Fwww.nytimes.com%252Flive%252F2"]
+
+www.nytimes.com###unified-lire-iframe-container-89110
+
+myaccount.nytimes.com###unified-lire-iframe-container-89110
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+news.sky.com##.vjs-big-play-button > .vjs-icon-placeholder
+
+www.googletagmanager.com##.css-airdf7
+
+www.nytimes.com##.css-airdf7
+
+www.googletagmanager.com##li.css-1fpysb4:nth-of-type(1) > figure > .css-v2kfba > .css-ogoe9v > .css-zwyzjt
+
+www.nytimes.com##li.css-1fpysb4:nth-of-type(1) > figure > .css-v2kfba > .css-ogoe9v > .css-zwyzjt
+
+www.googletagmanager.com##li.css-1fpysb4:nth-of-type(1) > figure > .css-v2kfba > .css-ogoe9v
+
+www.nytimes.com##li.css-1fpysb4:nth-of-type(1) > figure > .css-v2kfba > .css-ogoe9v
+
+www.washingtonpost.com##.justify-between.grid.absolute.w-100.border-box.overflow-hidden
+
+www.google.com##.justify-between.grid.absolute.w-100.border-box.overflow-hidden
+
+www.washingtonpost.com###softwall-1217eda341fe
+
+www.google.com###softwall-1217eda341fe
+
+@@||link.axios.com^$first-party
+
+www.washingtonpost.com###paywall-ui-responsive-modal > div:nth-of-type(1)
+
+news.google.com###paywall-ui-responsive-modal > div:nth-of-type(1)
+
+www.washingtonpost.com###paywall-ui-responsive-modal > div:nth-of-type(1)
+
+www.google.com###paywall-ui-responsive-modal > div:nth-of-type(1)
+
+www.google.com###paywall-ui-responsive-modal > div:nth-of-type(1)
+
+news.google.com###paywall-1176a25680da
+
+www.washingtonpost.com###paywall-1176a25680da
+
+www.google.com###paywall-1176a25680da
+
+www.washingtonpost.com###paywall-1176a25680da
+
+www.google.com###paywall-1176a25680da
+
+
+
+
+
+www.fxstreet.com##.fxs_ecocalbannerback
+
+www.fxstreet.com###Content_C594_Col01
+
+twitter.com##.css-175oi2r.r-1habvwh.r-eqz5dr.r-uaa2di.r-ymttw5.r-1f1sjgu
+
+seekingalpha.com##.bg-black-5.pt-24.text-center.dark\:bg-black.px-24.pb-safe-or-24
+
+seekingalpha.com##.inset-0.z-auto.absolute.bg-black\/60
+
+www.bsc.news##[src*="https://servedby.bsc.news/getad.img/;libID=4172658"]
+
+www.bsc.news##[src*="https://servedby.bsc.news/getad.img/;libID=4172707"]
+
+www.bsc.news##[src*="https://servedby.bsc.news/getad.img/;libID=4172692"]
+
+www.bsc.news##[src*="https://servedby.bsc.news/getad.img/;libID=4172687"]
+
+www.bsc.news##.bg-none.mt-4.text-text-secondary.dark\:text-text-secondary-dark.w-full.container.mx-auto.py-5 > .flex.flex-col.mt-1.md\:mt-0
+
+www.bsc.news##.grid.grid-cols-1.md\:grid-cols-2.lg\:grid-cols-3.gap-x-8.gap-y-8
+
+www.bsc.news##.hidden.md\:flex.items-center.gap-6.justify-between.px-2.md\:px-8.py-3
+
+www.bsc.news##[href*="/sponsored"]
+
+www.bsc.news##.bg-background-main.dark\:bg-background-maindark.text-text-secondary.dark\:text-text-secondary-dark.w-full.container.mx-auto.px-2.lg\:px-10.pb-6 > .flex.flex-col.mt-1.md\:mt-0 > .flex.flex-row.w-full.lg\:h-fit.justify-between.gap-8.mt-4.lg\:mt-4 > .flex-col.rounded-xl.hover\:-translate-y-1.transition-all.duration-300.bg-background-paper.dark\:bg-background-news-card-dark-2.relative.w-\[58\%\].hidden.md\:flex > div.flex.flex-col:nth-of-type(1) > a.rounded-t-xl.w-full.h-52.md\:h-96 > .object-cover.rounded-t-xl.w-full.h-52.md\:h-96
+
+www.bsc.news##.bg-background-main.dark\:bg-background-maindark.text-text-secondary.dark\:text-text-secondary-dark.w-full.container.mx-auto.px-2.lg\:px-10.pb-6 > .flex.flex-col.mt-1.md\:mt-0 > .flex.flex-row.w-full.lg\:h-fit.justify-between.gap-8.mt-4.lg\:mt-4
+
+www.bsc.news##.pt-5.pb-7.mt-5.lg\:mt-5.w-full.bg-press-release.text-text-secondary-dark.bg-no-repeat.bg-cover
+
+www.bloomberg.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.google.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+pay.google.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+m.stripe.network##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(2) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.google.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+pay.google.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+m.stripe.network##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(3) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+m.stripe.network##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.google.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+pay.google.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##div.gap-1:nth-of-type(4) > .media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.google.com###immersive-71422
+
+www.bloomberg.com###immersive-71422
+
+js.stripe.com###immersive-71422
+
+www.bloomberg.com###immersive-71422
+
+js.stripe.com###immersive-71422
+
+pay.google.com###immersive-71422
+
+js.stripe.com###immersive-71422
+
+js.stripe.com###immersive-71422
+
+m.stripe.network###immersive-71422
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+pay.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+m.stripe.network##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+imasdk.googleapis.com##.newsletter-form__wrapper.newsletter-form__wrapper--exitIntent
+
+www.techradar.com##.newsletter-form__wrapper.newsletter-form__wrapper--exitIntent
+
+www.techradar.com##.exit-intent__wrapper
+
+imasdk.googleapis.com##.exit-intent__wrapper
+
+www.techradar.com##.exit-intent.exit-intent__background
+
+imasdk.googleapis.com##.exit-intent.exit-intent__background
+
+imasdk.googleapis.com##.jw-video.jw-reset
+
+www.techradar.com##.jw-video.jw-reset
+
+imasdk.googleapis.com##.jw-media.jw-reset
+
+www.techradar.com##.jw-media.jw-reset
+
+imasdk.googleapis.com##.carousel__title.carousel__title--black-logo
+
+www.techradar.com##.carousel__title.carousel__title--black-logo
+
+imasdk.googleapis.com##.jw-wrapper.jw-reset
+
+www.techradar.com##.jw-wrapper.jw-reset
+
+imasdk.googleapis.com###botr_KgQ4BrDw_APjl6osP_div
+
+www.techradar.com###botr_KgQ4BrDw_APjl6osP_div
+
+imasdk.googleapis.com##.carousel--background
+
+www.techradar.com##.carousel--background
+
+imasdk.googleapis.com##.jw-carousel
+
+www.techradar.com##.jw-carousel
+
+imasdk.googleapis.com##.future__jwplayer--carousel
+
+www.techradar.com##.future__jwplayer--carousel
+
+imasdk.googleapis.com##.van_vid_carousel__container
+
+www.techradar.com##.van_vid_carousel__container
+
+imasdk.googleapis.com##.van_vid_carousel__padding
+
+www.techradar.com##.van_vid_carousel__padding
+
+4.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+2.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+2.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+0.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+1.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+6.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+0.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+2.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+1.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+1.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+0.html-load.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+timesofindia.indiatimes.com###jizsl_dggna6bgnat1gogay8p1v1g2 > div
+
+4.html-load.com###jizsl_dggnangwg221kaogr > div
+
+3.html-load.com###jizsl_dggnangwg221kaogr > div
+
+0.html-load.com###jizsl_dggnangwg221kaogr > div
+
+1.html-load.com###jizsl_dggnangwg221kaogr > div
+
+6.html-load.com###jizsl_dggnangwg221kaogr > div
+
+0.html-load.com###jizsl_dggnangwg221kaogr > div
+
+1.html-load.com###jizsl_dggnangwg221kaogr > div
+
+1.html-load.com###jizsl_dggnangwg221kaogr > div
+
+0.html-load.com###jizsl_dggnangwg221kaogr > div
+
+3.html-load.com###jizsl_dggnangwg221kaogr > div
+
+3.html-load.com###jizsl_dggnangwg221kaogr > div
+
+timesofindia.indiatimes.com###jizsl_dggnangwg221kaogr > div
+
+4.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+4.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+0.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+1.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+6.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+0.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+1.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+1.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+0.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+4.html-load.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+timesofindia.indiatimes.com##.nonAppView.layout_type_2 > div:nth-of-type(3)
+
+4.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+4.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+0.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+1.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+6.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+0.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+1.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+1.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+0.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+4.html-load.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+timesofindia.indiatimes.com###jizsl_ithc1l1y8068j8k84e > div > [src*="about:blank"]
+
+4.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+4.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+0.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+6.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+0.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+1.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+1.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+0.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+4.html-load.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+timesofindia.indiatimes.com###jizsl_ithc8i1mi8i138v8o8j84pm81 > div > [src*="about:blank"]
+
+pdp.gokwik.co###auto-load-popup
+
+pdp.gokwik.co###auto-load-popup
+
+pay.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+m.stripe.network##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-InBodyAds_inBodyAd-mz0YfknFCIM-.styles_inBodyAd__23KGn
+
+pay.google.com###leaderboard-42887
+
+js.stripe.com###leaderboard-42887
+
+m.stripe.network###leaderboard-42887
+
+www.bloomberg.com###leaderboard-42887
+
+www.google.com###leaderboard-42887
+
+js.stripe.com###leaderboard-42887
+
+js.stripe.com###leaderboard-42887
+
+js.stripe.com###leaderboard-42887
+
+www.bloomberg.com###leaderboard-42887
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+m.stripe.network##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+pay.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+www.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-LeaderboardAd_leaderboard-FZL8q-6lUUI-.media-ui-LeaderboardAd_parallax-9Z18W54a-Ss-
+
+m.stripe.network##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.bloomberg.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+pay.google.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.bloomberg.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.google.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+js.stripe.com##.media-ui-FullWidthAd_fullWidthAdWrapper-fClHZteIk3k-
+
+www.bloomberg.com###immersive-4000
+
+js.stripe.com###immersive-4000
+
+m.stripe.network###immersive-4000
+
+pay.google.com###immersive-4000
+
+www.google.com###immersive-4000
+
+js.stripe.com###immersive-4000
+
+js.stripe.com###immersive-4000
+
+js.stripe.com###immersive-4000
+
+www.bloomberg.com###immersive-4000
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+m.stripe.network##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+pay.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.google.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+www.bloomberg.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-BaseAd_baseAd-dXBqvbLRJy0-.media-ui-BaseAd_adPlaceholder-W4Hid5G045M-.media-ui-FullWidthAd_fullWidthAd-waQ2dCOMRb8-.media-ui-ImmersiveAd_immersive-DKpmbm3v2oE-.styles_storyImmersiveAd__cQ8NF.styles_bottomArticleAd__qK3mD
+
+js.stripe.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+m.stripe.network##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+www.bloomberg.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+www.bloomberg.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+pay.google.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+www.google.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+js.stripe.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+js.stripe.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+js.stripe.com##.media-ui-ExpandableBanner_title-SmxM-s20jSI-
+
+clip.cafe###message-want-hd
+
+clip.cafe###message-want-hd
+
+js.stripe.com##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8.\!fixed.top-\[57px\].sm\:top-64.sm\:max-\[817px\]\:top-80
+
+accounts.google.com##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8.\!fixed.top-\[57px\].sm\:top-64.sm\:max-\[817px\]\:top-80
+
+m.stripe.network##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8.\!fixed.top-\[57px\].sm\:top-64.sm\:max-\[817px\]\:top-80
+
+www.theinformation.com##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8.\!fixed.top-\[57px\].sm\:top-64.sm\:max-\[817px\]\:top-80
+
+accounts.google.com##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8.\!fixed.top-\[57px\].sm\:top-64.sm\:max-\[817px\]\:top-80
+
+m.stripe.network##.flex.w-full.flex-col.flex-nowrap.content-center.items-center.justify-center.px-24.pb-16.sm\:px-64.sm\:pb-32.md\:justify-between
+
+js.stripe.com##.flex.w-full.flex-col.flex-nowrap.content-center.items-center.justify-center.px-24.pb-16.sm\:px-64.sm\:pb-32.md\:justify-between
+
+accounts.google.com##.flex.w-full.flex-col.flex-nowrap.content-center.items-center.justify-center.px-24.pb-16.sm\:px-64.sm\:pb-32.md\:justify-between
+
+www.theinformation.com##.flex.w-full.flex-col.flex-nowrap.content-center.items-center.justify-center.px-24.pb-16.sm\:px-64.sm\:pb-32.md\:justify-between
+
+accounts.google.com##.flex.w-full.flex-col.flex-nowrap.content-center.items-center.justify-center.px-24.pb-16.sm\:px-64.sm\:pb-32.md\:justify-between
+
+m.stripe.network##.relative.pb-64.sm\:pb-112.pt-90.sm\:pt-\[140px\] > .px-16.sm\:px-28
+
+
+
+www.forbes.com##.zephr-article-modal-modal.zephr-generic-modal.no-close > .zephr-modal-content
+
+www.forbes.com##.zephr-article-modal-modal.zephr-generic-modal.no-close
+
+www.forbes.com##.zephr-article-modal-backdrop.zephr-backdrop
+
+lawbotpro.com##.p-5
+
+lawbotpro.com##.border-0.modal-header
+
+lawbotpro.com###pricingModal
+
+lawbotpro.com##.modal-backdrop.fade.show
+
+js.stripe.com##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8
+
+www.theinformation.com##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8
+
+m.stripe.network##.top-sticky-banner.min-h-56.flex.w-full.flex-row.flex-wrap.items-center.justify-center.px-16.py-8.print\:\!hidden.relative.z-\[50\].bg-primary-magenta.\!px-24.\!py-4.sm\:\!px-16.md\:\!py-8
+
+blog.coinshares.com##.im.gq.t.io.gr.v.qw.gs.du.qx.gt.qy.qz.gu.ra.ab.ec
+
+www.google.com##.im.gq.t.io.gr.v.qw.gs.du.qx.gt.qy.qz.gu.ra.ab.ec
+
+www.newslive.com###popmake-17016
+
+
+
+www.newslive.com###pum-17016
+
+dropstab.com##.mb-6.text-sm.text-gray-600.dark\:text-zinc-300
+
+dropstab.com##.w-full.h-\[180px\].object-cover.hidden.md\:block
+
+dropstab.com##.styles_image__0CDuN.relative.md\:-m-4.md\:mb-0
+
+dropstab.com##.styles_block__bgPP7.z-app-main.fixed.gap-2.bottom-0.left-0.right-0.bg-white.rounded-tl-2xl.rounded-tr-2xl.p-4.md\:w-80.md\:right-6.md\:bottom-6.md\:left-auto.md\:rounded-2xl.overflow-hidden.dark\:bg-zinc-800.shadow-\[0_-5px_20px_0_rgba\(0\,0\,0\,0\.1\)\].md\:shadow-lg
+
+dropstab.com##.text-left.align-middle.pl-1.pr-1.h-\[48px\].relative.z-0.p-0.dark\:border-t-zinc-700 > .flex.items-center.justify-between
+
+dropstab.com##.text-left.align-middle.pl-1.pr-1.h-\[48px\].relative.z-0.p-0.dark\:border-t-zinc-700
+
+dropstab.com###dtab-b-bottom-banner-dust-space
+
+dropstab.com###dtab-b-bottom-banner-hexacore
+
+dropstab.com##.mt-4.text-sm.text-gray-600.dark\:text-zinc-300
+
+dropstab.com##.pt-4.text-2xl.font-bold.md\:pt-6.md\:text-3xl
+
+dropstab.com##.cursor-default.whitespace-nowrap.text-xs.font-medium.overflow-hidden.styles_marketPulse__1ATIz.flex.justify-start.w-full
+
+dropstab.com##div.flex.md\:flex-row-reverse.md\:items-center.mt-6.md\:mt-8:nth-of-type(1) > .grow > .mt-1.text-sm.text-gray-600.dark\:text-zinc-300
+
+dropstab.com##.text-2xl.font-bold
+
+dropstab.com##div.flex.md\:flex-row-reverse.md\:items-center.mt-6.md\:mt-8:nth-of-type(1)
+
+dropstab.com##div.flex.md\:flex-row-reverse.md\:items-center.mt-6.md\:mt-8:nth-of-type(3)
+
+dropstab.com##div.flex.md\:flex-row-reverse.md\:items-center.mt-6.md\:mt-8:nth-of-type(5)
+
+dropstab.com###dtab-b-bottom-banner-undeads-staking
+
+dropstab.com###dtab-b-sidebar-1
+
+coinmarketcap.com##.sc-d1ede7e3-0.emZHMi
+
+coinmarketcap.com##.sc-d1ede7e3-0.hSFNYq.block-newsletter
+
+www.dlnews.com##.hidden.bg-gradient-to-b.from-\[\#F8F9F9\].from-\[0\%\].to-\[\#E7EAEB\].to-\[100\%\].dark\:bg-gradient-to-b.dark\:from-neutral-900.dark\:to-neutral-900.lg\:block
+
+www.dlnews.com##.price-feed-slider-wrap.flex.h-full.gap-x-4
+
+www.dlnews.com##.h-\[var\(--price-feed-height\)\].w-full.bg-neutral-25.py-8.text-blue-800.dark\:bg-primary-800.dark\:text-white
+
+token.unlocks.app##.flex.h-\[40px\].items-center.justify-center.gap-\[12px\].px-\[16px\].py-\[8px\]
+
+token.unlocks.app##.container.relative.z-\[1\].mx-auto.flex.flex-col.items-start.justify-start.gap-y-\[12px\].py-\[20px\].tablet\:flex-row.tablet\:items-center.tablet\:justify-between
+
+js.stripe.com##.container.relative.z-\[1\].mx-auto.flex.flex-col.items-start.justify-start.gap-y-\[12px\].py-\[20px\].tablet\:flex-row.tablet\:items-center.tablet\:justify-between
+
+m.stripe.network##.container.relative.z-\[1\].mx-auto.flex.flex-col.items-start.justify-start.gap-y-\[12px\].py-\[20px\].tablet\:flex-row.tablet\:items-center.tablet\:justify-between
+
+token.unlocks.app###\34 31663ca1f9dcfa7979
+
+js.stripe.com###\34 31663ca1f9dcfa7979
+
+m.stripe.network###\34 31663ca1f9dcfa7979
+
+coinmarketcal.com##.btn.btn-border-b.btn-color-link.rounded-pill.bybit
+
+www.google.com##.btn.btn-border-b.btn-color-link.rounded-pill.bybit
+
+coinmarketcal.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(1)
+
+www.google.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(1)
+
+coinmarketcal.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(3)
+
+www.google.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(3)
+
+www.google.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(2) > .card.text-center > .card__body.widget.py-2
+
+coinmarketcal.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(2) > .card.text-center > .card__body.widget.py-2
+
+coinmarketcal.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(4) > .card.text-center > .card__body.widget.py-2
+
+www.google.com##div.col-6.col-lg-3.d-none.d-sm-block.p-3:nth-of-type(4) > .card.text-center > .card__body.widget.py-2
+
+www.google.com##.support-us
+
+coinmarketcal.com##.support-us
+
+www.google.com##.row.list-news
+
+coinmarketcal.com##.row.list-news
+
+www.google.com##section.pb-4
+
+coinmarketcal.com##section.pb-4
+
+coinmarketcal.com##.banner_medium.d-flex.justify-content-center.w-100.position-relative
+
+www.google.com##.banner_medium.d-flex.justify-content-center.w-100.position-relative
+
+www.google.com##.row.mb-3
+
+coinmarketcal.com##.row.mb-3
+
+www.christophe-barraud.com##.attachment-blog-single.size-blog-single.wp-post-image
+
+in.investing.com##.js-rightside-market-settings-main > div.popup-content:nth-of-type(1)
+
+in.investing.com##.js-market-category-content
+
+in.investing.com##.js-right-side-components-wrapper.generatedRightSideComponent
+
+in.investing.com##.main-side.js-rightside-panel
+
+in.investing.com##.relative.flex.px-2\.5.py-1.transition-all.duration-100.ease-in.sm\:py-2\.5.promo-strip_promo-strip-wrapper__mEqE1.promo-strip_proPromo-stripe___88ug
+
+in.investing.com##.w-87.flex-none.border-y.border-l.border-\[\#D9DCDF\].bg-white.px-4.pt-4.lg\:block.lg\:rounded-l.block.rounded-l.pb-4
+
+in.investing.com##.w-87.flex-none.border-y.border-l.border-\[\#D9DCDF\].bg-white.px-4.pt-4.lg\:block.lg\:rounded-l.block.rounded-l
+
+in.investing.com##.flex.h-full.justify-end
+
+in.investing.com##div.order-5:nth-of-type(9)
+
+in.investing.com##.grid.grid-cols-1.md\:grid-cols-2.md\:gap-x-8
+
+in.investing.com##.text-xl\/7.font-bold.text-\[\#181C21\].sm\:text-3xl\/8.border-b.border-\[\#E6E9EB\].pb-6.text-xl.sm\:text-3xl
+
+in.investing.com##.FAB_links__rJas1.flex.gap-x-8.lg\:gap-x-5
+
+in.investing.com##.col-end-12.w-auto.xxl\:px-\[160px\].xxxl\:px-\[300px\].quick-links_quick-links__GwdfT.header_quicklinks-wrapper__X4f5X
+
+in.investing.com##.relative.z-3.hidden.rounded.shadow-workstation.md\:block.flex-1
+
+in.investing.com###lightbox-iframe-a559bd86-d9c1-456b-8ef0-6971b9de5008
+
+www.youtube.com###lightbox-iframe-a559bd86-d9c1-456b-8ef0-6971b9de5008
+
+www.youtube.com##.flex.flex-row.overflow-x-auto.md\:overflow-x-clip.ArticleRelatedInstrumentsView_hideScrollbar__df3hk
+
+in.investing.com##.flex.flex-row.overflow-x-auto.md\:overflow-x-clip.ArticleRelatedInstrumentsView_hideScrollbar__df3hk
+
+www.youtube.com##p:nth-of-type(19) > strong
+
+in.investing.com##p:nth-of-type(19) > strong
+
+in.investing.com##p:nth-of-type(20)
+
+www.youtube.com##p:nth-of-type(20)
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com##.ytp-cued-thumbnail-overlay-image
+
+in.investing.com##.ytp-cued-thumbnail-overlay-image
+
+www.youtube.com###article > .article_WYSIWYG__O0uhw.article_articlePage__UMz3q.text-\[18px\].leading-8 > .flex.flex-col.items-start.justify-end > .mt-5.max-w-full.text-\[1em\].tracking-\[-0\.0125em\]
+
+in.investing.com###article > .article_WYSIWYG__O0uhw.article_articlePage__UMz3q.text-\[18px\].leading-8 > .flex.flex-col.items-start.justify-end > .mt-5.max-w-full.text-\[1em\].tracking-\[-0\.0125em\]
+
+www.youtube.com###article > .article_WYSIWYG__O0uhw.article_articlePage__UMz3q.text-\[18px\].leading-8 > .flex.flex-col.items-start.justify-end
+
+in.investing.com###article > .article_WYSIWYG__O0uhw.article_articlePage__UMz3q.text-\[18px\].leading-8 > .flex.flex-col.items-start.justify-end
+
+in.investing.com##p:nth-of-type(23)
+
+www.youtube.com##p:nth-of-type(23)
+
+www.youtube.com##[src*="https://www.youtube.com/embed/_WfQcN5vjIE?si=smYM3ssG1MVWTnnR"]
+
+in.investing.com##[src*="https://www.youtube.com/embed/_WfQcN5vjIE?si=smYM3ssG1MVWTnnR"]
+
+www.youtube.com##.min-w-0 > div:nth-of-type(1) > div:nth-of-type(1) > .relative.flex.flex-col > .mb-3.cursor-text.rounded.border.border-\[\#D9DCDF\].p-3\.5.shadow-commentBox
+
+in.investing.com##.min-w-0 > div:nth-of-type(1) > div:nth-of-type(1) > .relative.flex.flex-col > .mb-3.cursor-text.rounded.border.border-\[\#D9DCDF\].p-3\.5.shadow-commentBox
+
+www.youtube.com##.min-w-0 > div:nth-of-type(1) > div:nth-of-type(1) > .relative.flex.flex-col > div.flex.flex-col.items-start:nth-of-type(15)
+
+in.investing.com##.min-w-0 > div:nth-of-type(1) > div:nth-of-type(1) > .relative.flex.flex-col > div.flex.flex-col.items-start:nth-of-type(15)
+
+www.youtube.com##.min-w-0 > div:nth-of-type(1) > div:nth-of-type(1) > .relative.flex.flex-col > .mb-8.flex.items-start.gap-1\.5
+
+in.investing.com##.min-w-0 > div:nth-of-type(1) > div:nth-of-type(1) > .relative.flex.flex-col > .mb-8.flex.items-start.gap-1\.5
+
+in.investing.com##.mobile-apps
+
+in.investing.com##.legal-info
+
+coinspaidmedia.com##.article-menu
+
+coinspaidmedia.com##.article-body__right
+
+coinspaidmedia.com##.article-big__insert.article-big__insert--special
+
+coinspaidmedia.com##div.block:nth-of-type(2)
+
+itez.com##.events-hero
+
+itez.com##.events-desc
+
+tokenterminal.com##._17chfzr4
+
+tokenterminal.com##._17chfzr3
+
+www.galaxy.com##.text.stack-s > p:nth-of-type(2)
+
+www.galaxy.com##.legal-text > p
+
+www.coinbase.com##.cds-flex-f1g67tkn.cds-column-ci8mx7v.cds-8-_sl1i61.cds-8-_rts7lp.cds-7-_33g99c > .cds-flex-f1g67tkn.cds-3-_1ixgcz3
+
+companiesmarketcap.com##.b-container1 > div:nth-of-type(1) > .recoverub-container
+
+companiesmarketcap.com##.b-container1 > div:nth-of-type(1)
+
+companiesmarketcap.com##.recoverub-container
+
+companiesmarketcap.com##div:nth-of-type(2) > div:nth-of-type(1)
+
+js.stripe.com##.alert.alert-success
+
+m.stripe.network##.alert.alert-success
+
+app.intotheblock.com##.alert.alert-success
+
+blog.bitmex.com##.vc_row.tdi_40.top-footer.wpb_row.td-pb-row
+
+static.parastorage.com##.item.cycle-slide.cycle-slide-active > .inner > div:nth-of-type(1) > .overlay
+
+www.econovis.net##.item.cycle-slide.cycle-slide-active > .inner > div:nth-of-type(1) > .overlay
+
+engage.wixapps.net##.item.cycle-slide.cycle-slide-active > .inner > div:nth-of-type(1) > .overlay
+
+static.parastorage.com##div.item.cycle-slide:nth-of-type(4) > .inner > div:nth-of-type(1) > .img
+
+engage.wixapps.net##div.item.cycle-slide:nth-of-type(4) > .inner > div:nth-of-type(1) > .img
+
+www.econovis.net##div.item.cycle-slide:nth-of-type(4) > .inner > div:nth-of-type(1) > .img
+
+www.econovis.net##.item.cycle-slide.cycle-slide-active > .inner > div:nth-of-type(1) > .overlay
+
+engage.wixapps.net##.item.cycle-slide.cycle-slide-active > .inner > div:nth-of-type(1) > .overlay
+
+static.parastorage.com##.item.cycle-slide.cycle-slide-active > .inner > div:nth-of-type(1) > .overlay
+
+js.stripe.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+m.stripe.network##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+www.bloomberg.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+pay.google.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+js.stripe.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+www.google.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+js.stripe.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+js.stripe.com##.media-ui-TerminalTout_terminalTout-jMmQ--E35FQ-.basicLeftRail_terminalTout__Ey5Pn > .media-ui-TerminalTout_background-ugfAG8JrlcE-
+
+m.stripe.network##.basicLeftRail_top__09ZY4
+
+pay.google.com##.basicLeftRail_top__09ZY4
+
+www.bloomberg.com##.basicLeftRail_top__09ZY4
+
+js.stripe.com##.basicLeftRail_top__09ZY4
+
+js.stripe.com##.basicLeftRail_top__09ZY4
+
+www.google.com##.basicLeftRail_top__09ZY4
+
+js.stripe.com##.basicLeftRail_top__09ZY4
+
+js.stripe.com##.basicLeftRail_top__09ZY4
+
+trhx.com##.relative.h-\[464px\].md\:h-\[678px\].px-6.pt-\[54px\].pb-12.md\:pt-0.flex.flex-col.items-center
+
+whalewisdom.com##.investments
+
+www.ndtv.com##.ins_keyword_rhs
+
+www.ndtv.com##.t-br
+
+platform.twitter.com##.s-ls
+
+www.ndtv.com##.s-ls
+
+social.ndtv.com##.s-ls
+
+platform.twitter.com##.story_footer.nw-ChanlLgo
+
+www.ndtv.com##.story_footer.nw-ChanlLgo
+
+social.ndtv.com##.story_footer.nw-ChanlLgo
+
+platform.twitter.com##.lst_nws_cnt
+
+www.ndtv.com##.lst_nws_cnt
+
+social.ndtv.com##.lst_nws_cnt
+
+platform.twitter.com##.btn_bm.cmt-ac.cmt-dn
+
+www.ndtv.com##.btn_bm.cmt-ac.cmt-dn
+
+social.ndtv.com##.btn_bm.cmt-ac.cmt-dn
+
+www.ndtv.com##.LsWg_wr2.opinion-4435
+
+www.ndtv.com##.vjl2_Rhs.CrdSptrLt.CrdSptrLt_a.vjl-m-non.SpcRhs_a1
+
+www.ndtv.com##.TpGnAd_ad-im
+
+www.ndtv.com##.TpGnAd_ad-wr1
+
+www.ndtv.com##section.section_two:nth-of-type(1)
+
+www.ndtv.com##.vjl-sm-12.vjl-md-12.vjl-lg-12.vjl-xl-6.res_ls-ns_rt.entertainment-4437
+
+www.ndtv.com##section.section_two:nth-of-type(5) > .vjl-cntr > div.vjl-row:nth-of-type(1) > .vjl-sm-12.vjl-md-12.vjl-lg-12 > .vjl-row > div.vjl-md-3:nth-of-type(4)
+
+www.ndtv.com##section.section_two:nth-of-type(5) > .vjl-cntr > div.vjl-row:nth-of-type(1) > .vjl-sm-12.vjl-md-12.vjl-lg-12 > .vjl-row > div.vjl-md-3:nth-of-type(2)
+
+www.ndtv.com##.vjl-sm-12.vjl-md-12.vjl-lg-12.vjl-xl-6.res_ls-ns_rt.lifestyle-4442
+
+www.ndtv.com##.section_two.\{\~TaboolaClass\~\}-\{\~CategoryID\~\}
+
+
+
+www.ndtv.com##.vjl-row.latest-stories-74 > div.vjl-md-12:nth-of-type(4)
+
+www.business-standard.com##.PostComment_postbottom__Js44J
+
+www.business-standard.com##.revamp-sub-story.orange-bg.section-div
+
+www.firstpost.com##.dtls-right-col.forrhssticky
+
+www.indiatodaygroup.com##.hdr_btm_wrp
+
+www.businesstoday.in##.hdr_btm_wrp
+
+www.businesstoday.in##.gbl_nav_wrp
+
+www.indiatodaygroup.com##.gbl_nav_wrp
+
+www.businesstoday.in##div.bt_Video_tv:nth-of-type(5) > .rhs_wrp
+
+accounts.google.com##div.bt_Video_tv:nth-of-type(5) > .rhs_wrp
+
+www.indiatodaygroup.com##div.bt_Video_tv:nth-of-type(5) > .rhs_wrp
+
+accounts.google.com##.story_bottom_social_icon
+
+www.businesstoday.in##.story_bottom_social_icon
+
+www.indiatodaygroup.com##.story_bottom_social_icon
+
+www.indiatodaygroup.com##.cm-btn-group
+
+accounts.google.com##.cm-btn-group
+
+www.businesstoday.in##.cm-btn-group
+
+accounts.google.com##div.bt_Video_tv:nth-of-type(7) > .rhs_wrp
+
+www.businesstoday.in##div.bt_Video_tv:nth-of-type(7) > .rhs_wrp
+
+www.indiatodaygroup.com##div.bt_Video_tv:nth-of-type(7) > .rhs_wrp
+
+www.thehindu.com##.btn.comments.comment-btn.print-hide
+
+www.thehindu.com##.related-topics.print-hide
+
+www.thehindu.com##.black-bg.video-playlist-section
+
+www.thehindu.com##section:nth-of-type(4)
+
+www.thehindu.com###fragmentcontentthshorts > .mb-2
+
+platform.twitter.com###mc_headband
+
+www.moneycontrol.com###mc_headband
+
+platform.twitter.com##.video_on_hp_widget.slick-initialized.slick-slider.slick-dotted > .slick-list.draggable > .slick-track
+
+www.moneycontrol.com##.video_on_hp_widget.slick-initialized.slick-slider.slick-dotted > .slick-list.draggable > .slick-track
+
+platform.twitter.com###video_on_hp
+
+www.moneycontrol.com###video_on_hp
+
+platform.twitter.com##.clearfix.main-vdo > p
+
+www.moneycontrol.com##.clearfix.main-vdo > p
+
+platform.twitter.com##.video-widget.video-widget-ajax.clearfix
+
+www.moneycontrol.com##.video-widget.video-widget-ajax.clearfix
+
+platform.twitter.com###top_trending_topic
+
+www.moneycontrol.com###top_trending_topic
+
+www.moneycontrol.com##.hmb_right
+
+platform.twitter.com##.hmb_right
+
+platform.twitter.com###trending_election_widget
+
+www.moneycontrol.com###trending_election_widget
+
+www.moneycontrol.com##.advisoryAlertFooter.respons_foot_desk.ftinsde
+
+platform.twitter.com##.advisoryAlertFooter.respons_foot_desk.ftinsde
+
+www.moneycontrol.com##.dfp_ads_block.mob-hide
+
+www.moneycontrol.com##.dfp_ads_block.mob-hide
+
+www.moneycontrol.com###mcprowd
+
+www.moneycontrol.com###mcprowd
+
+www.moneycontrol.com##.smallSliderNew.slick-initialized.slick-slider.slick-dotted > .slick-list.draggable > .slick-track
+
+www.moneycontrol.com##.smallSliderNew.slick-initialized.slick-slider.slick-dotted > .slick-list.draggable > .slick-track
+
+www.moneycontrol.com###rhs_banner_300x34_widget
+
+www.moneycontrol.com###rhs_banner_300x34_widget
+
+www.moneycontrol.com##.dfp_ads_block.hmpro_widget.MT20
+
+www.moneycontrol.com##.dfp_ads_block.hmpro_widget.MT20
+
+www.moneycontrol.com###companyname
+
+www.moneycontrol.com###companyname
+
+www.moneycontrol.com##.sidSearch.dropdown.PR.mob-hide
+
+www.moneycontrol.com##.sidSearch.dropdown.PR.mob-hide
+
+www.moneycontrol.com##.sub_title.clearfix.MB5
+
+www.moneycontrol.com##.sub_title.clearfix.MB5
+
+www.moneycontrol.com##[src*="https://www.moneycontrol.com/mccode/common/indices_chart/indices_chart.php?market=i&period=5&ind_id=9&width=250&height=120"]
+
+www.moneycontrol.com##[src*="https://www.moneycontrol.com/mccode/common/indices_chart/indices_chart.php?market=i&period=5&ind_id=9&width=250&height=120"]
+
+www.moneycontrol.com##.PR.MB2.clearfix
+
+www.moneycontrol.com##.PR.MB2.clearfix
+
+www.moneycontrol.com###advance_decline_unchange
+
+www.moneycontrol.com###advance_decline_unchange
+
+www.moneycontrol.com##.MR5.clearfix > .rhsglTbl > tbody > tr:nth-of-type(5) > td:nth-of-type(1)
+
+www.moneycontrol.com##.MR5.clearfix > .rhsglTbl > tbody > tr:nth-of-type(5) > td:nth-of-type(1)
+
+www.moneycontrol.com###indices_price
+
+www.moneycontrol.com###indices_price
+
+www.moneycontrol.com##.MT2.main_content.mc_homepage_body > .main-wrapper > div.clearfix.MT10:nth-of-type(3) > .main-rhs > div.mob-hide:nth-of-type(1) > .advertisement_box > .advHead
+
+www.moneycontrol.com##.MT2.main_content.mc_homepage_body > .main-wrapper > div.clearfix.MT10:nth-of-type(3) > .main-rhs > div.mob-hide:nth-of-type(1) > .advertisement_box > .advHead
+
+www.moneycontrol.com##.MR5.clearfix > .rhsglTbl > tbody > tr:nth-of-type(4) > td:nth-of-type(4)
+
+www.moneycontrol.com##.MR5.clearfix > .rhsglTbl > tbody > tr:nth-of-type(4) > td:nth-of-type(4)
+
+www.moneycontrol.com##.MR5.clearfix > .rhsglTbl > tbody > tr:nth-of-type(4) > td:nth-of-type(1) > h3
+
+www.moneycontrol.com##.MR5.clearfix > .rhsglTbl > tbody > tr:nth-of-type(4) > td:nth-of-type(1) > h3
+
+www.moneycontrol.com##.tpgls.MT20
+
+www.moneycontrol.com##.tpgls.MT20
+
+www.moneycontrol.com##.MT2.main_content.mc_homepage_body > .main-wrapper > div.clearfix.MT10:nth-of-type(3) > .main-left > .clearfix.MT20.mob-hide > .sub-col-rht > .galStoryContain > div.gal_sto_widget:nth-of-type(1)
+
+www.moneycontrol.com##.MT2.main_content.mc_homepage_body > .main-wrapper > div.clearfix.MT10:nth-of-type(3) > .main-left > .clearfix.MT20.mob-hide > .sub-col-rht > .galStoryContain > div.gal_sto_widget:nth-of-type(1)
+
+www.moneycontrol.com##.MT2.main_content.mc_homepage_body > .main-wrapper > div.clearfix.MT10:nth-of-type(3) > .main-left > .clearfix.MT20.mob-hide > .sub-col-rht > .galStoryContain > div.gal_sto_widget:nth-of-type(2)
+
+www.moneycontrol.com##.MT2.main_content.mc_homepage_body > .main-wrapper > div.clearfix.MT10:nth-of-type(3) > .main-left > .clearfix.MT20.mob-hide > .sub-col-rht > .galStoryContain > div.gal_sto_widget:nth-of-type(2)
+
+www.moneycontrol.com##.navmenu_sub
+
+www.moneycontrol.com##.navmenu_sub
+
+platform.twitter.com##.related_stories_left_block
+
+www.moneycontrol.com##.related_stories_left_block
+
+platform.twitter.com##.sensex-slider_sensexSliderHolder__xia5k
+
+www.livemint.com##.sensex-slider_sensexSliderHolder__xia5k
+
+platform.twitter.com##.echoSdk_signinStoryBox
+
+www.livemint.com##.echoSdk_signinStoryBox
+
+www.livemint.com##.rhs_trendingRHS__wlSEV.rhs_rightBlock__NE5ct
+
+platform.twitter.com##.rhs_trendingRHS__wlSEV.rhs_rightBlock__NE5ct
+
+platform.twitter.com##.rightBlockNew
+
+www.livemint.com##.rightBlockNew
+
+platform.twitter.com##.rhs_rightBlock__NE5ct.rhs_rightSticky__A8ztu
+
+www.livemint.com##.rhs_rightBlock__NE5ct.rhs_rightSticky__A8ztu
+
+www.livemint.com##div.rightblockAd:nth-of-type(6)
+
+www.livemint.com##div.rightblockAd:nth-of-type(8)
+
+www.livemint.com##.rightblockAd2
+
+www.livemint.com##.btmStrip
+
+www.livemint.com##div.widgetBlock:nth-of-type(4) > div:nth-of-type(3) > .designCol2_box
+
+www.livemint.com##div.widgetBlock:nth-of-type(6) > .designCol2_box
+
+www.livemint.com##div.widgetBlock:nth-of-type(6)
+
+www.livemint.com##.jsx-6f6f0ced663c5c54.mintPillar.pos-rel.mint-pillar_mintPillar__hPsdV
+
+www.livemint.com##[src*="/_next/image?url=https%3A%2F%2Fwww.livemint.com%2Flm-img%2Fimg%2Fstatic%2Fweb-banner.webp&w=3840&q=75"]
+
+www.livemint.com##.banner.mt16
+
+www.livemint.com##div.widgetBlock:nth-of-type(8) > div:nth-of-type(3) > .designCol2_box
+
+www.livemint.com##div.widgetBlock:nth-of-type(9) > div:nth-of-type(4) > .designCol2_box
+
+www.livemint.com##div.widgetBlock:nth-of-type(20) > div:nth-of-type(3) > .designCol2_box
+
+www.livemint.com##div.jsx-6f6f0ced663c5c54.widgetBlock:nth-of-type(21)
+
+www.livemint.com##div.footer_footerLinkHolder__habP_.footerLinkHolder:nth-of-type(2)
+
+www.livemint.com##div.footer_footerSpace__jFNT5.appBox:nth-of-type(4)
+
+www.livemint.com##[src*="https://www.livemint.com/lm-img/img/static/web-banner-no-sponsor.webp"]
+
+www.livemint.com##.jsx-a734f4ac76f7250c.bannerBudgetWeb
+
+www.livemint.com##.designCol2_boxNew.trendingContainer
+
+www.livemint.com###trading_strategy > .designCol2_boxNew2
+
+www.wsj.com##nav-hat
+
+edge-auth.microsoft.com##.list-widget.dark-mode-text--nuclear.list-widget-related-stories.dark-mode-secondary-theme-background.list
+
+nationalpost.com##.list-widget.dark-mode-text--nuclear.list-widget-related-stories.dark-mode-secondary-theme-background.list
+
+fem.gprod.postmedia.digital##.list-widget.dark-mode-text--nuclear.list-widget-related-stories.dark-mode-secondary-theme-background.list
+
+edge-auth.microsoft.com##.expansion-panel__body
+
+fem.gprod.postmedia.digital##.expansion-panel__body
+
+nationalpost.com##.expansion-panel__body
+
+edge-auth.microsoft.com###comments
+
+fem.gprod.postmedia.digital###comments
+
+nationalpost.com###comments
+
+edge-auth.microsoft.com##.more-topic
+
+nationalpost.com##.more-topic
+
+fem.gprod.postmedia.digital##.more-topic
+
+www.nbcnews.com##[src*="https://media-cldnry.s-nbcnews.com/image/upload/q_auto:eco/f_auto/newscms/2024_02/3635347/error_code_0035.png"]
+
+www.nbcnews.com##[src*="https://media-cldnry.s-nbcnews.com/image/upload/q_auto:eco/f_auto/newscms/2024_02/3635347/error_code_0035.png"]
+
+www.nbcnews.com##.pkg.live-video-embed.live-video-embed--is-rail.live-video-embed--news-now
+
+www.nbcnews.com##.pkg.live-video-embed.live-video-embed--is-rail.live-video-embed--news-now
+
+js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+www.google.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+b.stripecdn.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+m.stripe.network##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+claude.ai##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+newassets.hcaptcha.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+b.stripecdn.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+newassets.hcaptcha.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
+
+js.stripe.com##.font-tiempos.border-0\.5.absolute.right-2.top-3\.5.ml-0\.5.inline-flex.items-center.gap-1\.5.rounded-full.bg-gradient-to-b.py-2.pl-3\.5.pr-3.text-center.text-xs.sm\:static.sm\:text-sm.from-bg-500\/15.to-bg-500\/5.border-border-300
